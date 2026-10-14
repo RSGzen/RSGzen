@@ -30,7 +30,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **ML / NLP**
 
@@ -47,12 +46,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-**Web**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
 ### Featured projects
 
 #### UDiff — University–Industry Skill-Gap Analyzer
@@ -62,13 +55,6 @@ Turns real job postings into a per-role view of demanded skills, salary bands an
 #### LENS — Agentic Literature-Review System *(final-year thesis)*
 RLM-orchestrated retrieval over a GROBID-structured arXiv cs.AI corpus (166,704 papers): PostgreSQL + **pgvector** (HNSW), dual-stage retrieval + reranking, and a Docker-sandboxed agent harness.
 → **[Repo](https://github.com/RSGzen/LENS)**
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RSGzen&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RSGzen&layout=compact&hide_border=true" height="150"/>
-</p>
 
 ---
 
