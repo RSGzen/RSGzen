@@ -21,7 +21,7 @@
 - 🌏 Trilingual: **English · Mandarin · Malay**
 - 🎯 Open to **2027 AI/ML, data, or backend internship** roles in Malaysia
 - 🎮 Beyond code: A long-running **RimWorld** colony and the occasional rabbit hole into whatever I'm building
-- 📫 Best reached on [LinkedIn](https://www.linkedin.com/in/ge-rui-sen-3514b733a) or [my email](rs.ge.work@gmail.com)
+- 📫 Best reached on [LinkedIn](https://www.linkedin.com/in/ge-rui-sen-3514b733a) or [Email](mailto:rs.ge.work@gmail.com)
 
 ### Tech stack
 
