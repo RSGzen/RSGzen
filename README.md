@@ -17,11 +17,11 @@
 
 - 🎓 Final-year **AI (Hons)** undergrad: CGPA 3.76/4.00, Dean's List ×4, full merit scholarship
 - 🔭 Building **LENS**: An agentic literature-review system (RLM-orchestrated retrieval over a 166K-paper arXiv corpus)
-- 🧩 Comfortable across the stack: **Python + PostgreSQL/pgvector** on the data side, **Next.js/TypeScript** on the web side
+- 🧩 Comfortable across the stack: **Python + PostgreSQL/pgvector + Docker** on the data side with quick dashboard shipping via **Streamlit / Next.js**
 - 🌏 Trilingual: **English · Mandarin · Malay**
 - 🎯 Open to **2027 AI/ML, data, or backend internship** roles in Malaysia
 - 🎮 Beyond code: A long-running **RimWorld** colony and the occasional rabbit hole into whatever I'm building
-- 📫 Best reached on [LinkedIn](https://www.linkedin.com/in/ge-rui-sen-3514b733a)
+- 📫 Best reached on [LinkedIn](https://www.linkedin.com/in/ge-rui-sen-3514b733a) or [my email](rs.ge.work@gmail.com)
 
 ### Tech stack
 
